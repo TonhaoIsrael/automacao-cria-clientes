@@ -66,3 +66,19 @@ ADMIN_SENHA=1234
 
 # ID de um usuário técnico existente na API (opcional, mas recomendado)
 TECNICO_ID=2
+
+---
+## 6. Resultado 
+
+1 Fazendo login como ADMIN...
+Token obtido com sucesso.
+
+2 Criando clientes...
+Cliente criado: 5 - Cliente A
+Cliente criado: 6 - Cliente B
+
+3 Criando Ordens de Serviço...
+OS criada: 3 - Manutenção impressora
+OS criada: 4 - Instalação de roteador
+
+Automação concluída com sucesso!
