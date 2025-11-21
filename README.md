@@ -41,7 +41,6 @@ Fluxo principal:
 - Node.js instalado
 - API já publicada (ex.: `https://tech-on-api.onrender.com`)
 - Usuário **ADMIN** já cadastrado na API
-- Opcional: um usuário **TECNICO** já cadastrado (para ser atribuído nas OS)
 
 ---
 
